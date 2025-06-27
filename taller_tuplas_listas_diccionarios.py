@@ -85,7 +85,7 @@ total = (
     kilos_uva * frutas["uva"]
 )
 
-print(f"\nTotal a pagar: {total:} COP")
+print(f"\nTotal a pagar: {total:} COP") # codigooooooooo
 
 #-----------------------------------suma de elementos en tupla-------------------------------------------------------------------
 
