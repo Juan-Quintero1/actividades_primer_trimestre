@@ -117,3 +117,23 @@
 
 #------------------------------------------ejercicio 21--------------------------------------------------------------------------------
 
+# nombre = input("Ingresa tu nombre completo: ")
+
+# #------------------------------------------ejercicio 22--------------------------------------------------------------------------
+# nombre1 = nombre.split()[0]
+# print(f"tu pimer nombre es: {nombre1}")
+
+# #-------------------------------------------ejercicio 23----------------------------------------------------------------------------
+
+# num1 = int(input("ingresa el primer numero"))
+# num2 = int(input("ingresa el segundo numero"))
+
+# mayor = max(num1,num2)
+
+# print(f"el numero mayor es: {mayor}")
+
+# #--------------------------------------------ejercicio 24--------------------------------------------------------------------------------
+
+# año_nacimiento = int(input("En que año naciste"))
+# edad = 2025 - año_nacimiento
+# print(f"tienes {edad} años.")
